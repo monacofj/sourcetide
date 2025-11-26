@@ -1,2 +1,3 @@
-# tidestats
-TideStats - Workload and dynamics metrics for collaborative development
+# SourceTide
+
+SourceTide - Analytics for collaborative development dynamics
